@@ -4,7 +4,7 @@ This project partially implements using C++ the 2-pass global illumination appro
 The scene is rendered using recursive Monte-Carlo path tracing and photon mapping and (for comparison) using basic ray tracing and modulated light attenuation approach that takes into account only direct lightning.
 You can find the core of both algorithms in RayTracer.h .
 
-##Project report
+## Project report
 Please read the .pdf file with finnal report for more details.
 
 ## To compile the project use:
